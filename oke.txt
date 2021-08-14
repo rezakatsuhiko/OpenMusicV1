@@ -1,0 +1,5 @@
+uploadSongHandler
+getAllSongHandler
+getIdSongHandler
+putIdSongHandler
+deleteIdSongHandler
